@@ -4,7 +4,7 @@
 #' in a dataset, especially if the dataset is new. The function will provide such
 #' a list
 #'
-#' @param data.frame. Input object: data.frame.
+#' @param df data.frame. Input object: data.frame.
 #'
 #' @return data.frame. data.frame with row numbers corresponding to the position of the
 #' variables in the dataset and variable names.
